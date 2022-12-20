@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\Chapter2">
       <UniqueIdentifier>{516854ab-b6ef-4178-81ba-34553c1f38fb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Chapter3">
+      <UniqueIdentifier>{3904b1d5-09d9-4220-b33a-4f6d24d76d3b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Chapter1_Exercise3.cpp">
@@ -36,8 +39,17 @@
     <ClCompile Include="Chapter2_Activity5.cpp">
       <Filter>소스 파일\Chapter2</Filter>
     </ClCompile>
-    <ClCompile Include="Chapter2_MatrixGraph.cpp">
+    <ClCompile Include="Chapter2_ADLGraph.cpp">
       <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter3_HashTable_Chaining.cpp">
+      <Filter>소스 파일\Chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter3_CuckooHashing.cpp">
+      <Filter>소스 파일\Chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter3_C++HashTable.cpp">
+      <Filter>소스 파일\Chapter3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
