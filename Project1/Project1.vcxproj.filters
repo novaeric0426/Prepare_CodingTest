@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\Chapter3">
       <UniqueIdentifier>{3904b1d5-09d9-4220-b33a-4f6d24d76d3b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Chapter4">
+      <UniqueIdentifier>{660714c1-9c73-45ea-8df9-6c1033c9c2a0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Chapter1_Exercise3.cpp">
@@ -48,8 +51,14 @@
     <ClCompile Include="Chapter3_CuckooHashing.cpp">
       <Filter>소스 파일\Chapter3</Filter>
     </ClCompile>
-    <ClCompile Include="Chapter3_C++HashTable.cpp">
-      <Filter>소스 파일\Chapter3</Filter>
+    <ClCompile Include="Chapter4_BinarySearch.cpp">
+      <Filter>소스 파일\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter4_MergeSort.cpp">
+      <Filter>소스 파일\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter4_QuickSort.cpp">
+      <Filter>소스 파일\Chapter4</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
