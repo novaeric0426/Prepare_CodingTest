@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\Chapter5">
       <UniqueIdentifier>{0d0de4db-f36c-4ca8-ad51-f012c1777564}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Chapter6">
+      <UniqueIdentifier>{314f7f27-a1cb-4588-8eea-db1feecc0aaf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Chapter1_Exercise3.cpp">
@@ -77,6 +80,27 @@
     </ClCompile>
     <ClCompile Include="Chapter5_KruskalMST.cpp">
       <Filter>소스 파일\Chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter5_GraphColoring.cpp">
+      <Filter>소스 파일\Chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter5_Welsh-Powell.cpp">
+      <Filter>소스 파일\Chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter6_BFS.cpp">
+      <Filter>소스 파일\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter6_DFS.cpp">
+      <Filter>소스 파일\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter6_bispartite_check.cpp">
+      <Filter>소스 파일\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter6_Prim.cpp">
+      <Filter>소스 파일\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter6_Dijkstra.cpp">
+      <Filter>소스 파일\Chapter6</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
