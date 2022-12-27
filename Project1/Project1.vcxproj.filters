@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\Chapter6">
       <UniqueIdentifier>{314f7f27-a1cb-4588-8eea-db1feecc0aaf}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Chapter7">
+      <UniqueIdentifier>{f773d81e-90e7-4edf-bd60-6c95dfcb6edf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Chapter1_Exercise3.cpp">
@@ -101,6 +104,21 @@
     </ClCompile>
     <ClCompile Include="Chapter6_Dijkstra.cpp">
       <Filter>소스 파일\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter6_NYShortestPath.cpp">
+      <Filter>소스 파일\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter7_Bellman-Ford.cpp">
+      <Filter>소스 파일\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter7_GreedyRobot.cpp">
+      <Filter>소스 파일\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter7_Johnson.cpp">
+      <Filter>소스 파일\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter7_Kosaraju.cpp">
+      <Filter>소스 파일\Chapter7</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
