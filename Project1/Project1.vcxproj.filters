@@ -34,6 +34,12 @@
     <Filter Include="소스 파일\Chapter7">
       <UniqueIdentifier>{f773d81e-90e7-4edf-bd60-6c95dfcb6edf}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Chapter8">
+      <UniqueIdentifier>{7ca2a36f-d483-43cb-83a1-f5a409acd460}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter9">
+      <UniqueIdentifier>{f4406ead-4e0d-4280-8f09-525db6211ea2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Chapter1_Exercise3.cpp">
@@ -119,6 +125,24 @@
     </ClCompile>
     <ClCompile Include="Chapter7_Kosaraju.cpp">
       <Filter>소스 파일\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter7_Activity16_randomized_graph_statistics.cpp">
+      <Filter>소스 파일\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter8_SubSet_Bruteforce.cpp">
+      <Filter>소스 파일\Chapter8</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter8_Travel_Itinerary.cpp">
+      <Filter>소스 파일\Chapter8</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter8_LCS_Bruteforce.cpp">
+      <Filter>소스 파일\Chapter8</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter9_01KnapSack.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter9_UnboundKnapSack.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
