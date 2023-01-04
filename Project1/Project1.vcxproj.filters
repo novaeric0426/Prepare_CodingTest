@@ -144,5 +144,17 @@
     <ClCompile Include="Chapter9_UnboundKnapSack.cpp">
       <Filter>소스 파일\Chapter9</Filter>
     </ClCompile>
+    <ClCompile Include="Chapter9_maximizing_profit.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter9_SSSP_memoization.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter9_Floyd-Warshall.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter9_residential_roads.cpp">
+      <Filter>소스 파일\Chapter9</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
