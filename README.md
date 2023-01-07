@@ -1,1 +1,2 @@
 # Prepare_CodingTest
+ㅁㄴㅇㄹ머랴머냐ㅐㅇ러매ㅑ넝래ㅑ머래
