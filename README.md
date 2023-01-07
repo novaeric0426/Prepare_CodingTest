@@ -7,7 +7,7 @@ ios::sync_with_stdio(false);
 cin.tie(NULL); cout.tie(NULL);
 
 
-이거 2
+이거 2개 추가하기
 ---
 주요 C++ 기능 정리
 
