@@ -1,5 +1,14 @@
 # Prepare_CodingTest
+---
 
+ios::sync_with_stdio(false);
+
+
+cin.tie(NULL); cout.tie(NULL);
+
+
+이거 2
+---
 주요 C++ 기능 정리
 
 
